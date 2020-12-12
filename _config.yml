@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kaivalya Swami (Kaivu)"
+title                    : "Kaivalya"
 title_separator          : "-"
 name                     : &name "Kaivalya Swami"
 description              : &description "Senior Undergrad at IIT Delhi"
