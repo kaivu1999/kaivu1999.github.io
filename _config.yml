@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Kaivlaya Swami"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Senior Undergrad Student at IIT Delhi."
-  location         : "Location"
+  location         : "Delhi"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=cCXvYyoAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -100,10 +100,10 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "kaivalya-swami-916613142"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 'https://stackoverflow.com/users/10055814/kaivalya-swami'

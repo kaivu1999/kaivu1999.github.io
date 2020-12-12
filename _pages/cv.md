@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Get a detailed CV here. 
+
 Education
 ======
 * B.Teach in Computer Science and Enginerring, IIT Delhi, 2021
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
