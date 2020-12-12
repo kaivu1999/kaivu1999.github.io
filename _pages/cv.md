@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Get a detailed CV here. 
+Get a detailed CV [here](https://kaivu1999.github.io/files/cv.pdf).
 
-Education
+<!-- Education
 ======
 * B.Teach in Computer Science and Enginerring, IIT Delhi, 2021
 
@@ -22,7 +22,7 @@ Work experience
 
 * Summer 2019: Research Assistant
   * PDCL Lab, NTU Singapore
-  * Supervisor: Professor Weichen Liu
+  * Supervisor: Professor Weichen Liu -->
   
 <!-- Skills
 ======
