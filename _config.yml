@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : 
 
 
 # Site Author
@@ -87,7 +87,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=cCXvYyoAAAAJ"
-  email            :
+  email            : "cs1170339@cse.iitd.ac.in"
+  email            : "kaivu1999@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
