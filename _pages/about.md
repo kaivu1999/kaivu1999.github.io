@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! This is Kaivlaya."
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Don't hesitate to mail me for anything.
+I am a final year student at Computer Science and Engineering Department of Indian Institute of Technology, Delhi (IIT-Delhi).
+
+I am currently working with Prof Parag Singla on Machine Translation for low resource languages. I am interested in developing machine learning techniques with motivation of intersting applications in other fields.
 
 <!-- A data-driven personal website
 ======
