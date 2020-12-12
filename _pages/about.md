@@ -15,7 +15,7 @@ I am currently working with Prof Parag Singla on Machine Translation for low res
 Contact Me
 ----
 
-To get in touch, drop a mail to <a href="mailto:cs1170339@iitd.ac.in">id1</a> or <a href="mailto:kaivu1999@gmail.com">id2</a>.
+To get in touch, drop a mail to <a href="mailto:cs1170339@iitd.ac.in">cs1170339@iitd.ac.in</a> or <a href="mailto:kaivu1999@gmail.com">kaivu1999@gmail.com</a>.
 
 <!-- A data-driven personal website
 ======
