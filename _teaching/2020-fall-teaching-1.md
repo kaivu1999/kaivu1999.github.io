@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant | Data Structures and Algorithms"
+title: "Teaching Assistant, Data Structures and Algorithms"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-fall-teaching-1
