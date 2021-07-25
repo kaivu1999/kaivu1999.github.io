@@ -12,11 +12,11 @@ I am a final year student at Computer Science and Engineering Department of Indi
 
 I am currently working with Prof Parag Singla on Machine Translation for low resource languages. I am interested in developing machine learning techniques with motivation of intersting applications in other fields.
 
-In my free time I get involved in Sports like Tennis, Table Tennis, Football, Aquatics, Basketball. Recently I have started distance running.
+In my free time I get involved in Sports like Tennis, Table Tennis, Football, Aquatics, Basketball. Recently I have started distance running. Follow me on  <a href="https://www.strava.com/athletes/79434749">Strava</a> :) 
 
 Contact Me
 ----
-To get in touch, drop a mail at <a href="mailto:cs1170339@iitd.ac.in">cs1170339@iitd.ac.in</a> or <a href="mailto:kaivu1999@gmail.com">kaivu1999@gmail.com</a>.
+To get in touch, drop a mail at <a href="mailto:kaivu1999@gmail.com">kaivu1999@gmail.com</a>.
 
 <!-- A data-driven personal website
 ======
