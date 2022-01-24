@@ -14,7 +14,7 @@ updated: 1st April 2021.
 
 <!-- Education
 ======
-* B.Teach in Computer Science and Enginerring, IIT Delhi, 2021
+* B.Tech in Computer Science and Enginerring, IIT Delhi, 2021
 
 Work experience
 ======
