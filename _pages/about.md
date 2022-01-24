@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working at at DevRev with a vision to revolutionize the way software products are built. I am interested in applying AI to problems of different domains.  
+I am currently working at DevRev where we envision to revolutionize the way software products are built. I am interested in applying AI to solve problems from different domains.  
 
 I completed my bachelors in 2021, majoring in Computer Science and Engineering and specialization in Artificial Intelligence and Machine Learning from Indian Institute of Technology, Delhi (IIT-Delhi). For my undergratuate thesis, I worked with Prof Parag Singla on Machine Translation for low resource languages. I am interested in developing machine learning techniques with motivation of intersting applications in other fields.
 
