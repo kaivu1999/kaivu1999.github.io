@@ -16,7 +16,8 @@ In my free time I get involved in Sports like Tennis, Table Tennis, Football, Aq
 
 Contact Me
 ----
-To get in touch, drop a mail at <a href="mailto:kaivu1999@gmail.com">kaivu1999@gmail.com</a>.
+For work-related inquiries, reach out via email at <a href="mailto:kaivu1999@gmail.com">kaivu1999@gmail.com</a>.
+For an informal catch-up or fun collaborations, ping me on Instagram: <a href="https://www.instagram.com/kaivuuuu">kaivuuuu</a>
 
 <!-- A data-driven personal website
 ======
