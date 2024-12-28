@@ -1,0 +1,23 @@
+---
+layout: archive
+title: "Shades of Kaivu"
+permalink: /shades_of_kaivu/
+author_profile: true
+---
+
+{% include base_path %}
+
+<div class="intro-wrapper" style="display: flex; align-items: center; gap: 2em; margin-bottom: 3em;">
+  <div class="intro-text" style="flex: 3;">
+    <p>Welcome to Shades of Kaivu - a window into my diverse interests and passions. From the meditative flow of juggling to the spiritual resonance of bhajans, and the expressive freedom of dance, these pursuits shape who I am.</p>
+  </div>
+  <div class="intro-image" style="flex: 2; max-width: 300px;">
+    <img src="/images/kaivu-collage.jpg" alt="Kaivalya's Various Pursuits" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+</div>
+
+<div class="archive">
+  {% for post in site.shades_of_kaivu %}
+    {% include archive-single.html %}
+  {% endfor %}
+</div>
