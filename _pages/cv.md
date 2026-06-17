@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Get a detailed CV [here](https://kaivu1999.github.io/files/cv.pdf). <br>
-updated: 15th March 2025.
+updated: 17th June 2026.
 
 <!-- Education
 ======
