@@ -1,9 +1,9 @@
 ---
 layout: portfolio
 permalink: /
-title: "AI agents and search"
-description: "Kaivalya Swami is a software engineer at DevRev working on search and retrieval for AI agents."
-excerpt: "Kaivalya Swami is a software engineer at DevRev working on search and retrieval for AI agents."
+title: "About me"
+description: "Kaivalya Swami is a software engineer, juggler, and house dancer based in Bengaluru."
+excerpt: "Kaivalya Swami is a software engineer, juggler, and house dancer based in Bengaluru."
 header:
   image: profile.jpg
 redirect_from:
@@ -15,9 +15,9 @@ redirect_from:
   <div>
     <p class="ks-label"><span class="ks-dot"></span> Bengaluru, India</p>
     <h1 id="home-title">Kaivalya<br>Swami<span>.</span></h1>
-    <p class="ks-lede">I build search systems for AI agents at <a href="https://devrev.ai/">DevRev</a>.</p>
+    <p class="ks-lede">I’m an engineer, juggler, and house dancer.</p>
     <div class="ks-actions">
-      <a class="ks-button" href="{{ '/cv/' | relative_url }}">View CV <span aria-hidden="true">↗</span></a>
+      <a class="ks-button" href="{{ '/shades_of_kaivu/' | relative_url }}">Life outside work <span aria-hidden="true">↗</span></a>
       <a class="ks-text-link" href="mailto:{{ site.author.email }}">Get in touch <span aria-hidden="true">↗</span></a>
     </div>
   </div>
@@ -26,25 +26,39 @@ redirect_from:
   </figure>
 </section>
 
-<section class="ks-section ks-work" aria-labelledby="work-title">
+<section class="ks-section ks-research" aria-labelledby="about-title">
   <div class="ks-section-heading">
-    <p class="ks-label">DevRev · 2021–present</p>
-    <h2 id="work-title">What I work on</h2>
+    <h2 id="about-title">A little about me</h2>
   </div>
-  <dl class="ks-work-list">
+  <div>
+    <p>I got into juggling with three tennis balls at IIT Delhi and took it all the way to the European Juggling Convention in 2024. These days I also train in house dance, get together with friends to sing bhajans, and say yes to most things involving a racquet.</p>
+    <p>I studied computer science, and I’m drawn to questions that cross fields, from how machines translate between languages to how cloud motion can help predict solar power.</p>
+  </div>
+</section>
+
+<section class="ks-section" aria-labelledby="interests-title">
+  <div class="ks-section-heading ks-heading-row">
     <div>
-      <dt>Agent tools</dt>
-      <dd>I design how agents call search, from the inputs they pass to the snippets and results they get back.</dd>
+      <p class="ks-label">Outside work</p>
+      <h2 id="interests-title">Shades of Kaivu</h2>
     </div>
-    <div>
-      <dt>Search and ranking</dt>
-      <dd>I combine keyword and semantic retrieval, then use a reranker to surface the most relevant results from a customer’s knowledge base.</dd>
+    <a class="ks-text-link" href="{{ '/shades_of_kaivu/' | relative_url }}">Explore all <span aria-hidden="true">↗</span></a>
+  </div>
+  {% include interest-grid.html %}
+  <p class="ks-other-interests">I also play racquet sports and track my runs on <a href="https://www.strava.com/athletes/79434749">Strava</a>.</p>
+</section>
+
+<section class="ks-section ks-research" aria-labelledby="work-title">
+  <div class="ks-section-heading">
+    <h2 id="work-title">Work &amp; experience</h2>
+  </div>
+  <div>
+    <p>At DevRev, I work on how AI agents find the information they need. I build the search tools they call, improve how results are ranked, and run experiments to see whether those changes help.</p>
+    <div class="ks-actions">
+      <a class="ks-text-link" href="{{ '/work/' | relative_url }}">Explore my work <span aria-hidden="true">↗</span></a>
+      <a class="ks-text-link" href="{{ '/cv/' | relative_url }}">View CV <span aria-hidden="true">↗</span></a>
     </div>
-    <div>
-      <dt>Evaluation</dt>
-      <dd>I build experiments and monitoring to measure search quality and catch regressions during rollouts.</dd>
-    </div>
-  </dl>
+  </div>
 </section>
 
 <section class="ks-section ks-research" aria-labelledby="research-title">
@@ -59,16 +73,4 @@ redirect_from:
       <a class="ks-text-link" href="{{ '/teaching/' | relative_url }}">Teaching <span aria-hidden="true">↗</span></a>
     </div>
   </div>
-</section>
-
-<section class="ks-section" aria-labelledby="interests-title">
-  <div class="ks-section-heading ks-heading-row">
-    <div>
-      <p class="ks-label">Outside work</p>
-      <h2 id="interests-title">Shades of Kaivu</h2>
-    </div>
-    <a class="ks-text-link" href="{{ '/shades_of_kaivu/' | relative_url }}">Explore all <span aria-hidden="true">↗</span></a>
-  </div>
-  {% include interest-grid.html %}
-  <p class="ks-other-interests">I also play racquet sports and track my runs on <a href="https://www.strava.com/athletes/79434749">Strava</a>.</p>
 </section>

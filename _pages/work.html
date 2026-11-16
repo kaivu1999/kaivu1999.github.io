@@ -1,0 +1,57 @@
+---
+layout: portfolio
+title: "Work & Experience"
+excerpt: "How I build search for AI agents at DevRev, and what I learned working on data pipelines, model efficiency, and solar forecasting."
+permalink: /work/
+---
+
+<header class="ks-work-intro">
+  <h1>Work &amp; Experience<span>.</span></h1>
+  <p class="ks-lede">I build the search systems AI agents use to find answers at <a href="https://devrev.ai/">DevRev</a>.</p>
+</header>
+
+<section class="ks-section ks-work" aria-labelledby="devrev-title">
+  <div class="ks-section-heading">
+    <p class="ks-label">Software Engineer · AI Platform</p>
+    <h2 id="devrev-title">Building search at DevRev</h2>
+  </div>
+  <div class="ks-work-list">
+    <article>
+      <h3>Designing search as an agent tool</h3>
+      <p>Search is a tool the agent can call more than once per question. I redesigned what agents pass into search and how we return snippets and results. That brought the average from 6.5 to 3.8 tool calls per query while maintaining task success. I also built Compass to group similar queries and find recurring failure patterns in agent traffic.</p>
+    </article>
+    <article>
+      <h3>Retrieval, ranking, and knowledge access</h3>
+      <p>I work on a two-stage pipeline that combines keyword and semantic retrieval, then reranks the merged results. I evaluated reranker models for relevance and latency and built versioned settings for staged rollouts. I also built a way to control which knowledge bases, tools, and retrieval strategies each customer’s agents can use.</p>
+    </article>
+    <article>
+      <h3>Measuring search quality in production</h3>
+      <p>I built an A/B testing framework that started with rerankers and expanded to retrieval settings, models, and agent tool changes. I also instrumented search so teams could see click-through rate, how high useful results ranked, and agent feedback, and catch regressions before a full rollout.</p>
+    </article>
+  </div>
+</section>
+
+<section class="ks-section ks-work" aria-labelledby="other-work-title">
+  <div class="ks-section-heading">
+    <h2 id="other-work-title">Other experience</h2>
+  </div>
+  <div class="ks-work-list">
+    <article>
+      <h3>Data pipelines · APT Portfolio</h3>
+      <p>I built an alerting pipeline, from Kafka message routing and producer libraries in C++ and Python to a dashboard for monitoring alerts.</p>
+    </article>
+    <article>
+      <h3>Model efficiency · NTU Singapore</h3>
+      <p>In Prof. Weichen Liu’s lab, I benchmarked how much binarized neural networks could speed up image classification on AlexNet and VGGNet.</p>
+    </article>
+    <article>
+      <h3>Solar forecasting · Tensor Dynamics</h3>
+      <p>At this IIT Delhi startup, I used satellite imagery to track cloud motion and forecast solar irradiance up to three hours ahead.</p>
+    </article>
+  </div>
+</section>
+
+<div class="ks-actions">
+  <a class="ks-button" href="{{ '/cv/' | relative_url }}">View CV <span aria-hidden="true">↗</span></a>
+  <a class="ks-text-link" href="https://github.com/{{ site.author.github }}">GitHub <span aria-hidden="true">↗</span></a>
+</div>

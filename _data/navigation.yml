@@ -5,6 +5,9 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "Work & Experience"
+    url: /work/
+
   - title: "Shades of Kaivu"
     url: /shades_of_kaivu/
 
