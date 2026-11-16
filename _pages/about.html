@@ -1,0 +1,74 @@
+---
+layout: portfolio
+permalink: /
+title: "AI agents and search"
+description: "Kaivalya Swami is a software engineer at DevRev working on search and retrieval for AI agents."
+excerpt: "Kaivalya Swami is a software engineer at DevRev working on search and retrieval for AI agents."
+header:
+  image: profile.jpg
+redirect_from:
+  - /about/
+  - /about.html
+---
+
+<section class="ks-hero" aria-labelledby="home-title">
+  <div>
+    <p class="ks-label"><span class="ks-dot"></span> Bengaluru, India</p>
+    <h1 id="home-title">Kaivalya<br>Swami<span>.</span></h1>
+    <p class="ks-lede">I build search systems for AI agents at <a href="https://devrev.ai/">DevRev</a>.</p>
+    <div class="ks-actions">
+      <a class="ks-button" href="{{ '/cv/' | relative_url }}">View CV <span aria-hidden="true">↗</span></a>
+      <a class="ks-text-link" href="mailto:{{ site.author.email }}">Get in touch <span aria-hidden="true">↗</span></a>
+    </div>
+  </div>
+  <figure class="ks-portrait">
+    <img src="{{ '/images/profile.jpg' | relative_url }}" alt="Kaivalya Swami outdoors" width="1300" height="1300" fetchpriority="high">
+  </figure>
+</section>
+
+<section class="ks-section ks-work" aria-labelledby="work-title">
+  <div class="ks-section-heading">
+    <p class="ks-label">DevRev · 2021–present</p>
+    <h2 id="work-title">What I work on</h2>
+  </div>
+  <dl class="ks-work-list">
+    <div>
+      <dt>Agent tools</dt>
+      <dd>I design how agents call search, from the inputs they pass to the snippets and results they get back.</dd>
+    </div>
+    <div>
+      <dt>Search and ranking</dt>
+      <dd>I combine keyword and semantic retrieval, then use a reranker to surface the most relevant results from a customer’s knowledge base.</dd>
+    </div>
+    <div>
+      <dt>Evaluation</dt>
+      <dd>I build experiments and monitoring to measure search quality and catch regressions during rollouts.</dd>
+    </div>
+  </dl>
+</section>
+
+<section class="ks-section ks-research" aria-labelledby="research-title">
+  <div class="ks-section-heading">
+    <p class="ks-label">IIT Delhi · Class of 2021</p>
+    <h2 id="research-title">Research &amp; teaching</h2>
+  </div>
+  <div>
+    <p>I studied computer science at IIT Delhi. For my undergraduate thesis with Prof. Parag Singla, I worked on machine translation for 12 low-resource Indic languages. I also co-authored a paper on language networks and taught data structures and algorithms as a teaching assistant.</p>
+    <div class="ks-actions">
+      <a class="ks-text-link" href="{{ '/publications/' | relative_url }}">Publications <span aria-hidden="true">↗</span></a>
+      <a class="ks-text-link" href="{{ '/teaching/' | relative_url }}">Teaching <span aria-hidden="true">↗</span></a>
+    </div>
+  </div>
+</section>
+
+<section class="ks-section" aria-labelledby="interests-title">
+  <div class="ks-section-heading ks-heading-row">
+    <div>
+      <p class="ks-label">Outside work</p>
+      <h2 id="interests-title">Shades of Kaivu</h2>
+    </div>
+    <a class="ks-text-link" href="{{ '/shades_of_kaivu/' | relative_url }}">Explore all <span aria-hidden="true">↗</span></a>
+  </div>
+  {% include interest-grid.html %}
+  <p class="ks-other-interests">I also play racquet sports and track my runs on <a href="https://www.strava.com/athletes/79434749">Strava</a>.</p>
+</section>

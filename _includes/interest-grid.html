@@ -1,0 +1,14 @@
+{% assign interests = site.shades_of_kaivu | sort: 'order' %}
+<div class="ks-interest-grid">
+  {% for interest in interests %}
+    <a class="ks-interest" href="{{ interest.url | relative_url }}">
+      {% if interest.card_image %}
+        <img src="{{ interest.card_image | relative_url }}" alt="" loading="lazy">
+      {% endif %}
+      <div class="ks-interest-text">
+        <h3>{{ interest.title | escape }} <span aria-hidden="true">↗</span></h3>
+        <p>{{ interest.summary | default: interest.excerpt | strip_html | escape }}</p>
+      </div>
+    </a>
+  {% endfor %}
+</div>

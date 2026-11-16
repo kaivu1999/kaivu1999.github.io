@@ -3,11 +3,14 @@ title: "Dance"
 collection: shades_of_kaivu
 permalink: /shades_of_kaivu/dance
 excerpt: 'Exploring the language of movement, from classical rhythms to contemporary expressions'
+order: 2
+card_image: /images/dance.jpg
+summary: "House dance, freestyle, and finding my own rhythm."
 header:
   teaser: "assets/images/dance.jpg"
 ---
 
-<div style="display: flex; gap: 2em; align-items: flex-start; margin-bottom: 2em;">
+<div class="ks-story-intro">
   <div style="flex: 3;">
     <h2 style="margin-top: 0;">The Journey Begins</h2>
     <p>Dance has been my gateway to understanding the profound connection between music, movement, and emotion. My exploration of various dance forms began with classical Indian dance and gradually expanded to include contemporary styles. Each practice session has been a journey of self-discovery, where the boundaries between physical expression and emotional storytelling blur into a seamless flow of energy.</p>
@@ -23,7 +26,7 @@ The dance community at IIT Delhi has been instrumental in shaping my growth as a
 ## Style Evolution
 What began as traditional training has evolved into a personal style that blends various influences. The precision of classical forms meets the freedom of contemporary expression, creating a unique dance vocabulary that continues to evolve with each performance.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2em; margin: 2em 0;">
+<div class="ks-story-details">
   <div style="background: #f8f9fa; padding: 1.5em; border-radius: 12px;">
     <h2 style="margin-top: 0; color: #2a7ae2;">Dance Forms & Training</h2>
     <ul style="list-style-type: none; padding: 0; margin: 0;">

@@ -9,21 +9,17 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <link rel="stylesheet" href="{{ '/assets/css/portfolio.css' | relative_url }}">
   </head>
 
-  <body>
+  <body class="ks-site ks-legacy">
 
     {% include browser-upgrade.html %}
-    {% include masthead.html %}
+    {% include site-header.html %}
 
-    {{ content }}
+    <div id="site-content" tabindex="-1">{{ content }}</div>
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
+    {% include site-footer.html %}
 
     {% include scripts.html %}
 

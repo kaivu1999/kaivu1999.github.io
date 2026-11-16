@@ -3,6 +3,9 @@ title: "Vasudha"
 collection: shades_of_kaivu
 permalink: /shades_of_kaivu/vasudha
 excerpt: 'Bhajan Jamming Groups in Bangalore'
+order: 3
+card_image: /images/vasudha.jpg
+summary: "Getting together to sing bhajans in Bengaluru."
 header:
   teaser: "assets/images/vasudha.jpg"
 ---

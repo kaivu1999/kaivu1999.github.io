@@ -3,11 +3,14 @@ title: "Juggling"
 collection: shades_of_kaivu
 permalink: /shades_of_kaivu/juggling
 excerpt: 'A journey through flow arts, meditation in motion, and the art of object manipulation'
+order: 1
+card_image: /images/juggling.jpg
+summary: "From three tennis balls at IIT Delhi to the European Juggling Convention."
 header:
   teaser: "assets/images/juggling.jpg"
 ---
 
-<div style="display: flex; gap: 2em; align-items: flex-start; margin-bottom: 2em;">
+<div class="ks-story-intro">
   <div style="flex: 3;">
     <h2 style="margin-top: 0;">The Beginning</h2>
     <p>My journey into the world of juggling began during my college years at IIT Delhi. What started as a curious experiment with three tennis balls quickly evolved into a passionate pursuit of flow arts. Through countless hours of practice in the hostel corridors and campus lawns, I gradually mastered various patterns and transitions, finding an incredible meditative quality in the rhythmic motion of objects in flight.</p>
@@ -23,7 +26,7 @@ The juggling community has been an incredible source of inspiration and growth. 
 ## The Art of Flow
 This art form has taught me valuable lessons about patience, persistence, and the joy of continuous learning. The state of flow achieved during juggling becomes a moving meditation, where mind and body work in perfect harmony. It's not just about keeping objects in the air; it's about finding rhythm, balance, and presence in motion.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2em; margin: 2em 0;">
+<div class="ks-story-details">
   <div style="background: #f8f9fa; padding: 1.5em; border-radius: 12px;">
     <h2 style="margin-top: 0; color: #2a7ae2;">Skills & Props</h2>
     <ul style="list-style-type: none; padding: 0; margin: 0;">

@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kaivalya"
+title                    : "Kaivalya Swami"
 title_separator          : "-"
 name                     : &name "Kaivalya Swami"
-description              : &description "Senior Undergrad at IIT Delhi"
-url                      : https://www.kaivalyaswami.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Software engineer working on search and retrieval for AI agents"
+url                      : https://kaivalyaswami.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kaivu1999.github.io"
+repository               : "kaivu1999/kaivu1999.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,10 +84,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kaivlaya Swami"
+  name             : "Kaivalya Swami"
   avatar           : "profile.jpg"
-  bio              : "AI Engineer at DevRev | BTech CSE IIT Delhi | YOLO"
-  location         : "Banglore"
+  bio              : "Software engineer at DevRev · AI platforms and search"
+  location         : "Bengaluru, India"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=cCXvYyoAAAAJ"
@@ -283,6 +283,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-redirect-from
   - jekyll-sitemap
   - jemoji
 
@@ -291,6 +292,7 @@ whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-redirect-from
   - jekyll-sitemap
   - jemoji
 
